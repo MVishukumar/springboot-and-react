@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="C:\Users\emxxvsh\Documents\Private\Tech\ReactJS\springboot-and-react\target/classes/public">
+    <fileset dir="C:\Users\emxxvsh\Documents\Private\Tech\ReactJS\springboot-and-react/basic-frontend-app/build"/>
+  </copy>
+</target>
+</project>
